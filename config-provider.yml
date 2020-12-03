@@ -18,7 +18,7 @@ eureka:
       #efaultZone: http://172.16.0.5:7001/eureka
       defaultZone: http://127.0.0.1:7001/eureka
   instance:
-    instance-id: ORDER-PROVIDER-TEST
+    instance-id: ORDER-PROVIDER-TEST-Change
     prefer-ip-address: true     #访问路径可以显示IP地址
 
 pagehelper:
